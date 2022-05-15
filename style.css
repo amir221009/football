@@ -1,0 +1,23 @@
+h1{text-align: center;
+            font-size: 1000%;
+            color:aliceblue
+            }
+            
+            header{
+                border:1px solid green;
+                background-image:url(3.jpg);
+                
+            }
+          main  p {
+                 font-size: 200%;
+                text-align: center;
+                
+                
+            }
+            footer {
+                background-color: chocolate;
+                font-size: 200%;
+                text-align: center;
+            }
+
+            
